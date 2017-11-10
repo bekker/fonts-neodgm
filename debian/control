@@ -1,0 +1,17 @@
+Source: fonts-neodgm
+Section: fonts
+Priority: optional
+Maintainer: Jang Ryeol <ryeolj5911@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: http://dalgona.hontou.moe/neodgm/
+Vcs-Git: https://github.com/bekker/fonts-neodgm.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/fonts-neodgm.git
+
+Package: fonts-neodgm
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Old stype Korean monospace font originated from MS-DOS
+ Font package for NeoDunggeunmo(Neo둥근모).
+ Font from http://dalgona.hontou.moe/neodgm/

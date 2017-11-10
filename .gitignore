@@ -1,0 +1,5 @@
+debian/debhelper-build-stamp
+debian/files
+debian/fonts-neodgm
+debian/fonts-neodgm.debhelper.log
+debian/fonts-neodgm.substvars
